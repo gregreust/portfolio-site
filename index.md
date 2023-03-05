@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Developer Portfolio
+author: Gregory Reust
 ---
 
